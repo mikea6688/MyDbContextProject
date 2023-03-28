@@ -2,7 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64ab67f2-52ab-4d20-b0f1-416118377663" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.MyDbContextPro/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MyDbContextPro/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyDbContextPro.sln" beforeDir="false" afterPath="$PROJECT_DIR$/MyDbContextPro.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyDbContextPro/MyDbContext.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyDbContextPro/MyDbContextPro.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyDbContextPro/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyDbContextPro/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyDbContextPro/obj/Debug/net6.0/MyDbContextPro.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyDbContextPro/obj/Debug/net6.0/MyDbContextPro.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyDbContextPro/obj/Debug/net6.0/MyDbContextPro.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyDbContextPro/obj/Debug/net6.0/MyDbContextPro.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyDbContextPro/obj/Debug/net6.0/MyDbContextPro.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyDbContextPro/obj/Debug/net6.0/MyDbContextPro.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyDbContextPro/obj/MyDbContextPro.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyDbContextPro/obj/MyDbContextPro.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyDbContextPro/obj/MyDbContextPro.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyDbContextPro/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyDbContextPro/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyDbContextPro/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyDbContextPro/obj/rider.project.restore.info" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,14 +35,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -35,6 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1679571975414</updated>
       <workItem from="1679571983596" duration="3002000" />
+      <workItem from="1679962184610" duration="425000" />
     </task>
     <servers />
   </component>

@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64ab67f2-52ab-4d20-b0f1-416118377663" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/MyDbContextPro.sln" beforeDir="false" afterPath="$PROJECT_DIR$/MyDbContextPro.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbContextPro/MyDbContext.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbContextPro/MyDbContextPro.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbContextPro/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbContextPro/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbContextPro/obj/Debug/net6.0/MyDbContextPro.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbContextPro/obj/Debug/net6.0/MyDbContextPro.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbContextPro/obj/Debug/net6.0/MyDbContextPro.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbContextPro/obj/Debug/net6.0/MyDbContextPro.GlobalUsings.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbContextPro/obj/Debug/net6.0/MyDbContextPro.assets.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbContextPro/obj/Debug/net6.0/MyDbContextPro.csproj.AssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbContextPro/obj/MyDbContextPro.csproj.nuget.dgspec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbContextPro/obj/MyDbContextPro.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbContextPro/obj/MyDbContextPro.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbContextPro/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbContextPro/obj/project.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbContextPro/obj/project.packagespec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbContextPro/obj/rider.project.restore.info" beforeDir="false" />
-    </list>
+    <list default="true" id="64ab67f2-52ab-4d20-b0f1-416118377663" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

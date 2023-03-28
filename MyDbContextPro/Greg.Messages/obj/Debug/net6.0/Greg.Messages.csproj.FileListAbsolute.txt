@@ -1,0 +1,12 @@
+/Users/liujianxiong/Documents/GitHub/MyDbContextProject/MyDbContextPro/Greg.Messages/bin/Debug/net6.0/Greg.Messages.deps.json
+/Users/liujianxiong/Documents/GitHub/MyDbContextProject/MyDbContextPro/Greg.Messages/bin/Debug/net6.0/Greg.Messages.dll
+/Users/liujianxiong/Documents/GitHub/MyDbContextProject/MyDbContextPro/Greg.Messages/bin/Debug/net6.0/Greg.Messages.pdb
+/Users/liujianxiong/Documents/GitHub/MyDbContextProject/MyDbContextPro/Greg.Messages/obj/Debug/net6.0/Greg.Messages.csproj.AssemblyReference.cache
+/Users/liujianxiong/Documents/GitHub/MyDbContextProject/MyDbContextPro/Greg.Messages/obj/Debug/net6.0/Greg.Messages.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liujianxiong/Documents/GitHub/MyDbContextProject/MyDbContextPro/Greg.Messages/obj/Debug/net6.0/Greg.Messages.AssemblyInfoInputs.cache
+/Users/liujianxiong/Documents/GitHub/MyDbContextProject/MyDbContextPro/Greg.Messages/obj/Debug/net6.0/Greg.Messages.AssemblyInfo.cs
+/Users/liujianxiong/Documents/GitHub/MyDbContextProject/MyDbContextPro/Greg.Messages/obj/Debug/net6.0/Greg.Messages.csproj.CoreCompileInputs.cache
+/Users/liujianxiong/Documents/GitHub/MyDbContextProject/MyDbContextPro/Greg.Messages/obj/Debug/net6.0/Greg.Messages.dll
+/Users/liujianxiong/Documents/GitHub/MyDbContextProject/MyDbContextPro/Greg.Messages/obj/Debug/net6.0/refint/Greg.Messages.dll
+/Users/liujianxiong/Documents/GitHub/MyDbContextProject/MyDbContextPro/Greg.Messages/obj/Debug/net6.0/Greg.Messages.pdb
+/Users/liujianxiong/Documents/GitHub/MyDbContextProject/MyDbContextPro/Greg.Messages/obj/Debug/net6.0/ref/Greg.Messages.dll

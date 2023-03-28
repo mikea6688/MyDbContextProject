@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "RolGfmeOeb7m9+rbTncdH9va6/KEjDyW6u2vUoK0sYbbQ5IfxYr/mXQYfxa58yu2tDKnclgdpB2KELKQDXLooQ==",
+  "dgSpecHash": "DbdHtICF37peqyktnxmjTHd1P268p5YPdt3frOw/s1zuo4M424f68McUCUg+cBDKfhvA9fy5hMXlcMZL2AndQA==",
   "success": true,
   "projectFilePath": "/Users/liujianxiong/Documents/GitHub/MyDbContextProject/MyDbContextPro/Greg.Api/Greg.Api.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/liujianxiong/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/liujianxiong/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/liujianxiong/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/liujianxiong/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/liujianxiong/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/liujianxiong/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
   "logs": []
 }

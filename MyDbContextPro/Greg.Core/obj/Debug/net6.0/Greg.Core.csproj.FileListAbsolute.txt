@@ -1,0 +1,12 @@
+/Users/liujianxiong/Documents/GitHub/MyDbContextProject/MyDbContextPro/Greg.Core/bin/Debug/net6.0/Greg.Core.deps.json
+/Users/liujianxiong/Documents/GitHub/MyDbContextProject/MyDbContextPro/Greg.Core/bin/Debug/net6.0/Greg.Core.dll
+/Users/liujianxiong/Documents/GitHub/MyDbContextProject/MyDbContextPro/Greg.Core/bin/Debug/net6.0/Greg.Core.pdb
+/Users/liujianxiong/Documents/GitHub/MyDbContextProject/MyDbContextPro/Greg.Core/obj/Debug/net6.0/Greg.Core.csproj.AssemblyReference.cache
+/Users/liujianxiong/Documents/GitHub/MyDbContextProject/MyDbContextPro/Greg.Core/obj/Debug/net6.0/Greg.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liujianxiong/Documents/GitHub/MyDbContextProject/MyDbContextPro/Greg.Core/obj/Debug/net6.0/Greg.Core.AssemblyInfoInputs.cache
+/Users/liujianxiong/Documents/GitHub/MyDbContextProject/MyDbContextPro/Greg.Core/obj/Debug/net6.0/Greg.Core.AssemblyInfo.cs
+/Users/liujianxiong/Documents/GitHub/MyDbContextProject/MyDbContextPro/Greg.Core/obj/Debug/net6.0/Greg.Core.csproj.CoreCompileInputs.cache
+/Users/liujianxiong/Documents/GitHub/MyDbContextProject/MyDbContextPro/Greg.Core/obj/Debug/net6.0/Greg.Core.dll
+/Users/liujianxiong/Documents/GitHub/MyDbContextProject/MyDbContextPro/Greg.Core/obj/Debug/net6.0/refint/Greg.Core.dll
+/Users/liujianxiong/Documents/GitHub/MyDbContextProject/MyDbContextPro/Greg.Core/obj/Debug/net6.0/Greg.Core.pdb
+/Users/liujianxiong/Documents/GitHub/MyDbContextProject/MyDbContextPro/Greg.Core/obj/Debug/net6.0/ref/Greg.Core.dll

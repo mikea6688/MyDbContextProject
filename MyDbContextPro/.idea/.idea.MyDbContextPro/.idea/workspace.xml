@@ -7,7 +7,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="340a28af-4afb-42b5-ad54-b29e9cccb11b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.MyDbContextPro/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MyDbContextPro/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Greg.Api/bin/Debug/net6.0/Greg.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Greg.Api/bin/Debug/net6.0/Greg.Api.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Greg.Api/bin/Debug/net6.0/Greg.Api.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Greg.Api/bin/Debug/net6.0/Greg.Api.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Greg.Api/obj/Debug/net6.0/Greg.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Greg.Api/obj/Debug/net6.0/Greg.Api.dll" afterDir="false" />
@@ -103,13 +102,14 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="64ab67f2-52ab-4d20-b0f1-416118377663" name="Changes" comment="" />
+      <changelist id="340a28af-4afb-42b5-ad54-b29e9cccb11b" name="Changes" comment="" />
       <created>1679571975414</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679571975414</updated>
       <workItem from="1679571983596" duration="3002000" />
       <workItem from="1679962184610" duration="425000" />
+      <workItem from="1680163518463" duration="373000" />
     </task>
     <servers />
   </component>
